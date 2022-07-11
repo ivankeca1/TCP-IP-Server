@@ -1,0 +1,11 @@
+
+b	java:S112
+"FDefine and throw a dedicated exception instead of using a generic one.(ÇÕõ¨8ÖôºÜò/
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ç¯±æÿÿÿÿÿ8×ôºÜò/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(èÙµãùÿÿÿÿ8ÀŒçÈò/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(øÎ¶Æ8ŞôºÜò/
+O
+java:S1135"2Complete the task associated to this TODO comment.(øÎ¶Æ8ßôºÜò/
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(ÓĞ¶8àôºÜò/
+0
+java:S1220""Move this file to a named package.
